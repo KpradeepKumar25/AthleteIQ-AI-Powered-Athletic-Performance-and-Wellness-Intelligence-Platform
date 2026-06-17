@@ -117,9 +117,9 @@ Nutrition Score    : 68/100
 
 <table>
 <tr>
-<td align="center"><img src="screenshots/onboarding.png" width="200"/><br><b>Onboarding</b></td>
-<td align="center"><img src="screenshots/auth.png" width="200"/><br><b>Authentication</b></td>
-<td align="center"><img src="screenshots/nutrition.png" width="200"/><br><b>Nutrition Tab</b></td>
+<td align="center"><img src="screenshots/onboarding.jpj" width="200"/><br><b>Onboarding</b></td>
+<td align="center"><img src="screenshots/auth.jpj" width="200"/><br><b>Authentication</b></td>
+<td align="center"><img src="screenshots/nutrition.jpj" width="200"/><br><b>Nutrition Tab</b></td>
 </tr>
 <tr>
 <td align="center"><img src="screenshots/workout.png" width="200"/><br><b>Workout Metrics</b></td>
