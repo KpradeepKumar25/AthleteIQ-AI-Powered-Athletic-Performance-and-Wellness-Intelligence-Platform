@@ -122,12 +122,12 @@ Nutrition Score    : 68/100
 <td align="center"><img src="screenshots/nutrition.jpj" width="200"/><br><b>Nutrition Tab</b></td>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/workout.png" width="200"/><br><b>Workout Metrics</b></td>
-<td align="center"><img src="screenshots/health.png" width="200"/><br><b>Health Metrics</b></td>
-<td align="center"><img src="screenshots/fitness.png" width="200"/><br><b>Fitness Metrics</b></td>
+<td align="center"><img src="screenshots/workout.jpj" width="200"/><br><b>Workout Metrics</b></td>
+<td align="center"><img src="screenshots/health.jpj" width="200"/><br><b>Health Metrics</b></td>
+  <td align="center"><img src="screenshots/fitness.jpj" width="200"/><br><b>Fitness Metrics</b></td>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/profile.png" width="200"/><br><b>Profile Screen</b></td>
+<td align="center"><img src="screenshots/profile.jpj" width="200"/><br><b>Profile Screen</b></td>
 <td></td>
 <td></td>
 </tr>
