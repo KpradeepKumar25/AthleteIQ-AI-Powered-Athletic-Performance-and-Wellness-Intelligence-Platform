@@ -118,7 +118,7 @@ Nutrition Score    : 68/100
 <table>
 <tr>
 <td align="center"><img src="screenshots/onboarding.jpg" width="200"/><br><b>Onboarding</b></td>
-<td align="center"><img src="screenshots/auth.jpg" width="200"/><br><b>Authentication</b></td>
+<td align="center"><img src="screenshots/auth..jpg" width="200"/><br><b>Authentication</b></td>
 <td align="center"><img src="screenshots/nutrition.jpg" width="200"/><br><b>Nutrition Tab</b></td>
 </tr>
 <tr>
