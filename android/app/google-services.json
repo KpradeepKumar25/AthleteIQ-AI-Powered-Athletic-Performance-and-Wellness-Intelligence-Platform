@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763165796727",
+    "project_id": "newgensports-85bb4",
+    "storage_bucket": "newgensports-85bb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763165796727:android:5f4a83f466a4f744cf9972",
+        "android_client_info": {
+          "package_name": "com.example.health_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxRz-XEMioQJCy21W61nPcBQ7OUH2qYu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
