@@ -117,17 +117,17 @@ Nutrition Score    : 68/100
 
 <table>
 <tr>
-<td align="center"><img src="screenshots/onboarding.jpj" width="200"/><br><b>Onboarding</b></td>
-<td align="center"><img src="screenshots/auth.jpj" width="200"/><br><b>Authentication</b></td>
-<td align="center"><img src="screenshots/nutrition.jpj" width="200"/><br><b>Nutrition Tab</b></td>
+<td align="center"><img src="screenshots/onboarding.jpg" width="200"/><br><b>Onboarding</b></td>
+<td align="center"><img src="screenshots/auth.jpg" width="200"/><br><b>Authentication</b></td>
+<td align="center"><img src="screenshots/nutrition.jpg" width="200"/><br><b>Nutrition Tab</b></td>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/workout.jpj" width="200"/><br><b>Workout Metrics</b></td>
-<td align="center"><img src="screenshots/health.jpj" width="200"/><br><b>Health Metrics</b></td>
-  <td align="center"><img src="screenshots/fitness.jpj" width="200"/><br><b>Fitness Metrics</b></td>
+<td align="center"><img src="screenshots/workout.jpg" width="200"/><br><b>Workout Metrics</b></td>
+<td align="center"><img src="screenshots/health.jpg" width="200"/><br><b>Health Metrics</b></td>
+  <td align="center"><img src="screenshots/fitness.jpg" width="200"/><br><b>Fitness Metrics</b></td>
 </tr>
 <tr>
-<td align="center"><img src="screenshots/profile.jpj" width="200"/><br><b>Profile Screen</b></td>
+<td align="center"><img src="screenshots/profile.jpg" width="200"/><br><b>Profile Screen</b></td>
 <td></td>
 <td></td>
 </tr>
